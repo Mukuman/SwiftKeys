@@ -1,8 +1,6 @@
 # SwiftKeys
 ## By: Mukund Patil
 
-K
-
 This application will be a game that can be played by anyone who wants to practice 
 their typing skills. The game will provide a sentence, and then will tell the user to retype
  the sentence. Based on the accuracy of the input, the user will gain some amount of points. After time is up, 
