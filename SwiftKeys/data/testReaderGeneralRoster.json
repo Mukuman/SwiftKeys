@@ -1,0 +1,15 @@
+{
+  "players": [
+    {
+    "currentPoints": 0,
+    "highscore": 50,
+    "name": "mukund"
+    },
+    {
+      "currentPoints": 0,
+      "highscore": 100,
+      "name": "jackson"
+    }
+  ],
+  "name": "My roster"
+}
